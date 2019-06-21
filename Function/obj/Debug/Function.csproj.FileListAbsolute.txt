@@ -1,0 +1,7 @@
+C:\Users\skrob\OneDrive\Рабочий стол\ооап\лаба1\Function\Function\bin\Debug\Function.exe.config
+C:\Users\skrob\OneDrive\Рабочий стол\ооап\лаба1\Function\Function\bin\Debug\Function.exe
+C:\Users\skrob\OneDrive\Рабочий стол\ооап\лаба1\Function\Function\bin\Debug\Function.pdb
+C:\Users\skrob\OneDrive\Рабочий стол\ооап\лаба1\Function\Function\obj\Debug\Function.csprojAssemblyReference.cache
+C:\Users\skrob\OneDrive\Рабочий стол\ооап\лаба1\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\skrob\OneDrive\Рабочий стол\ооап\лаба1\Function\Function\obj\Debug\Function.exe
+C:\Users\skrob\OneDrive\Рабочий стол\ооап\лаба1\Function\Function\obj\Debug\Function.pdb

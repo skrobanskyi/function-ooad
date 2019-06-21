@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Function.Func.UnaryClass.ConstFunc" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAgCAAAAAAAAgAAAQ=</HashCode>
+      <FileName>Func\UnaryClass\ConstFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.UnaryClass.UnFunc" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Func\UnaryClass\UnFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.UnaryClass.TgFunc" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Func\UnaryClass\TgFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.UnaryClass.SinFunc" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Func\UnaryClass\SinFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.UnaryClass.PowFunc" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAgAQAAAAAAAgAAAA=</HashCode>
+      <FileName>Func\UnaryClass\PowFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.UnaryClass.LnFunc" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Func\UnaryClass\LnFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.UnaryClass.ExpFunc" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Func\UnaryClass\ExpFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.UnaryClass.CtgFunc" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Func\UnaryClass\CtgFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.UnaryClass.CosFunc" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Func\UnaryClass\CosFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.OtherClass.Polynom" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAEAAgAAAAAAAAAgAAAQ=</HashCode>
+      <FileName>Func\OtherClass\Polynom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Function" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Function.Function.Calculate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Func\OtherClass\Function.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAAAAEAQBAAAAgAAAAAAAAAgAAAQ=</HashCode>
+      <FileName>Func\OtherClass\Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.OtherClass.Argum" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAAAAgAAAQ=</HashCode>
+      <FileName>Func\OtherClass\Argum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Program" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.BinaryClass.MultOper" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAEAAAgAAAA=</HashCode>
+      <FileName>Func\BinaryClass\MultOper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.BinaryClass.DivOper" Collapsed="true">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAEAAAgAAAA=</HashCode>
+      <FileName>Func\BinaryClass\DivOper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Binary.BinFunc" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAAAAAAAABAABAAAAAAEAAAAAAAQ=</HashCode>
+      <FileName>Func\BinaryClass\BinFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.BinaryClass.AddOper" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAEAAAgAAAA=</HashCode>
+      <FileName>Func\BinaryClass\AddOper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function.Func.BinaryClass.SubOper" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAEAAAgAAAA=</HashCode>
+      <FileName>Func\BinaryClass\SubOper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
